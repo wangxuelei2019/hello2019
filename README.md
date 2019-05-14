@@ -1,2 +1,2 @@
 # hello2019
-add collaborator wwxuelei
+add collaborator wwxuelei，email:sample@some.come
